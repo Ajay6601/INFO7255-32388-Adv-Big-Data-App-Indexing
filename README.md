@@ -32,11 +32,11 @@ The three demonstrations I built showcase the learnings from this lecture.
 
 
 ### 📌 Demo 1 
-  REST API to handle structured JSON data
-  CRUD operations (Create, Read, Delete)
-  JSON Schema validation
-  Conditional read support
-  Storage in a key/value store
+  * REST API to handle structured JSON data
+  * CRUD operations (Create, Read, Delete)
+  * JSON Schema validation
+  * Conditional read support
+  * Storage in a key/value store
 
 ### 📌 Demo 2 
   CRUD operations with merge/patch support

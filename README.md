@@ -39,17 +39,17 @@ The three demonstrations I built showcase the learnings from this lecture.
   * Storage in a key/value store
 
 ### 📌 Demo 2 
-  CRUD operations with merge/patch support
-  Advanced API semantics (conditional read/write)
-  Security: Bearer token (RS256) with Google IDP
-  Data validation with JSON Schema
-  Key/value storage
+  * CRUD operations with merge/patch support
+  * Advanced API semantics (conditional read/write)
+  * Security: Bearer token (RS256) with Google IDP
+  * Data validation with JSON Schema
+  * Key/value storage
 
 ### 📌 Demo 3 
-  CRUD with cascaded delete
-  Advanced API semantics
-  Parent-Child indexing with ElasticSearch
-  Search with joins
-  Queueing mechanism
-  Security
+  * CRUD with cascaded delete
+  * Advanced API semantics
+  * Parent-Child indexing with ElasticSearch
+  * Search with joins
+  * Queueing mechanism
+  * Security
 
